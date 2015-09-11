@@ -1,0 +1,3 @@
+<launch>
+  <node name="ros_buildfarm_test_node" pkg="ros_buildfarm_test" type="ros_buildfarm_test_node" output="screen" />
+</launch>
